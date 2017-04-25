@@ -1,0 +1,10 @@
+.Celda-style {
+	width: 128px;
+	height: 80px;
+	border: 0px solid #bebebe;
+	display:table-cell;
+  padding:4px;
+
+}
+
+
